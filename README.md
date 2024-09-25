@@ -1,1 +1,1 @@
-Allows a user to bulki upload a folder of videos to their microfeed instance
+Allows a user to bulk upload a folder of videos to their microfeed instance
